@@ -65,6 +65,8 @@ TumorTrace/
 ├── README.md            # Project overview and instructions
 └── LICENSE              # License information
 ```
+## Model Download
+You can download the pre-trained model from the [release page](https://github.com/Rathoreatri03/TumorTrace/releases/tag/v1.0.0).
 
 ## Contributor
 
